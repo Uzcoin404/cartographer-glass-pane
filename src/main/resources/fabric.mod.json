@@ -6,7 +6,7 @@
 	"description": "A mod that makes cartographers always trade glass pane at level 2.",
 	"authors": ["Suyunbek"],
 	"license": "MIT",
-	"icon": "assets/modid/icon.png",
+	"icon": "assets/modid/icon.jpg",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
